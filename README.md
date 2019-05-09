@@ -9,4 +9,4 @@ This script has the negative values of 4 empty highscore entries (-999x4=-3996),
 
 ![alt text](https://github.com/aeneasoftroy/bat-space-cadet-pinball-highscore-verification-hack/blob/master/Space%20Cadet%20Pinball%20Hacking%203.png)
 
-  - Stephan
+  - Aeneas of Troy
