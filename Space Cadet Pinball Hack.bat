@@ -2,8 +2,8 @@
 setlocal enabledelayedexpansion
 color 0a
 
-REM SPACE CADET PINBALL HIGHSCORE TABLE VERIFICATION CODE HACK BY STEPHAN VAN DE KERKHOF
-REM ------------------------------------------------------------------------------------
+REM SPACE CADET PINBALL HIGHSCORE TABLE VERIFICATION CODE HACK
+REM ----------------------------------------------------------
 REM In order to get the highscore table to be accepted by the program,
 REM we must re-calculate the verification code in the registry. This
 REM code is calculated by adding up all score on the table, substracting
@@ -15,7 +15,7 @@ REM convert those characters into decimals, add those up to what we have
 REM and there is the verification code we require to validate the highscore.
 
 echo SPACE CADET PINBALL HIGHSCORE TABLE VERIFICATION CODE HACK 
-echo BY STEPHAN VAN DE KERKHOF
+echo BY HcH
 echo.
 
 set DEBUG=1
